@@ -1,0 +1,10 @@
+.Hangman {
+    margin-top: 50px;
+    padding-left: 50px;
+}
+#hangmanCanvas {
+    border: 1px solid;
+}
+div {
+    padding-top: 15px;
+}
